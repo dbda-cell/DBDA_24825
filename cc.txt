@@ -1,0 +1,3 @@
+Cloud is a used to store the data virtually
+Cloud has 2 model deploy and service
+cloud is fast as compare to physical environment
